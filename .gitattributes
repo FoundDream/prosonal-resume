@@ -1,0 +1,5 @@
+# 设置所有文本文件为 LF
+* text=auto eol=lf
+
+# 针对 Windows 下的特定文件保留 CRLF
+*.bat text eol=crlf
